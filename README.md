@@ -2,7 +2,7 @@
 what's this project about ?
 we wanto to make a deep learning model by CNN
 
-used frameworks : Tensorflow / Keras / Pytorch
+Used frameworks : Tensorflow , Keras , Pytorch
 
 About data and target :
 we have a dataset involve 5 types of rices we want to make a model that it can predict the types of rices
