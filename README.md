@@ -1,4 +1,4 @@
-# Rice-classification-by-CNN-
+# Rice classification by CNN
 what's this project about ?
 we wanto to make a deep learning model by CNN
 
