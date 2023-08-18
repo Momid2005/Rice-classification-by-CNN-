@@ -12,6 +12,5 @@ https://www.kaggle.com/datasets/muratkokludataset/rice-image-dataset
 
 
 
-Web app :
-https://github.com/Momid2005/Rice-classification-by-CNN-/assets/92232434/6af7e9e1-0d27-4917-bc54-f820f076232d
+Web app video : https://github.com/Momid2005/Rice-classification-by-CNN-/assets/92232434/6af7e9e1-0d27-4917-bc54-f820f076232d
 
